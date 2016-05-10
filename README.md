@@ -1,2 +1,2 @@
 # RidePal
-Architecture of project for shared transportation
+Architecture of a project for shared transportation
